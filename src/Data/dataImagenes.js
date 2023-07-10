@@ -1,37 +1,37 @@
 const dataImagenes = [
     {
         id:1,
-        img:'src/Assets/ImgSitios/ImgImagenes/freepic.png',
+        img:'https://live.staticflickr.com/65535/53037411289_37f11dbce6_k.jpg',
         nombre:'Freepik',
         url:'https://www.freepik.es'
     },
     {
         id:2,
-        img:'src/Assets/ImgSitios/ImgImagenes/stockvault.png',
+        img:'https://live.staticflickr.com/65535/53037712018_5d6dcdaf54_k.jpg',
         nombre:'Stockvault',
         url:'https://www.stockvault.net'
     },
     {
         id:3,
-        img:'src/Assets/ImgSitios/ImgImagenes/vecteezy.png',
+        img:'https://live.staticflickr.com/65535/53037712043_60c965d0a6_k.jpg',
         nombre:'Vecteezy',
         url:'https://es.vecteezy.com'
     },
     {
         id:4,
-        img:'src/Assets/ImgSitios/ImgImagenes/Pexels.png',
+        img:'https://live.staticflickr.com/65535/53037619735_d2fa4ba30e_k.jpg',
         nombre:'Pexels',
         url:'https://www.pexels.com/es-es/'
     },
     {
         id:5,
-        img:'src/Assets/ImgSitios/ImgImagenes/Burst.png',
+        img:'https://live.staticflickr.com/65535/53037712078_d4e6d80fd6_k.jpg',
         nombre:'Burst',
         url:'https://burst.shopify.com'
     },
     {
         id:6,
-        img:'src/Assets/ImgSitios/ImgImagenes/ShotStash.png',
+        img:'https://live.staticflickr.com/65535/53037712063_ba850ce5a4_k.jpg',
         nombre:'ShotStash',
         url:'https://shotstash.com'
     }

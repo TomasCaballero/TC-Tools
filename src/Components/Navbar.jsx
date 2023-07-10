@@ -5,7 +5,7 @@ const Navbar = () => {
     return (
         <aside className="layout__aside">
             <div className="aside__logo">
-                <img src="src/Assets/ImgAside/tools-man.png" alt="Imagen" className="aside__img" />
+                <img src="https://live.staticflickr.com/65535/53036646772_7e55e4c168.jpg" alt="Imagen" className="aside__img" />
                 <h1 className="aside__title">
                     TC-Tools
                 </h1>

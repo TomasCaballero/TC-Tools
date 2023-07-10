@@ -1,72 +1,72 @@
 const dataIcons = [
     {
         id:1,
-        img:'src/Assets/ImgSitios/ImgIconos/boxicons.png',
+        img:'https://live.staticflickr.com/65535/53037411039_b32909504f_k.jpg',
         nombre:'Boxicons',
         url:'https://boxicons.com/?query=cop'
     },
     {
         id:2,
-        img:'src/Assets/ImgSitios/ImgIconos/fontAwesome.png',
+        img:'https://live.staticflickr.com/65535/53036649692_ae04d19dc2_k.jpg',
         nombre:'Font Awesome',
         url:'https://fontawesome.com'
     },
     {
         id:3,
-        img:'src/Assets/ImgSitios/ImgIconos/flaticon.png',
+        img:'https://live.staticflickr.com/65535/53037411024_3723b1eb77_k.jpg',
         nombre:'Flaticon',
         url:'https://www.flaticon.es'
     },
     {
         id:4,
-        img:'src/Assets/ImgSitios/ImgIconos/icon-icons.png',
+        img:'https://live.staticflickr.com/65535/53036649672_1e4e1e17ff_k.jpg',
         nombre:'Icon-icons',
         url:'https://icon-icons.com/es/'
     },
     {
         id:5,
-        img:'src/Assets/ImgSitios/ImgIconos/lucide.png',
+        img:'https://live.staticflickr.com/65535/53037227981_9ce3b702ee_k.jpg',
         nombre:'Lucide',
         url:'https://lucide.dev/icons/'
     },
     {
         id:6,
-        img:'src/Assets/ImgSitios/ImgIconos/iconSVG.png',
+        img:'https://live.staticflickr.com/65535/53036649677_05de27e994_k.jpg',
         nombre:'IconSVG',
         url:'https://iconsvg.xyz'
     }
     ,
     {
         id:7,
-        img:'src/Assets/ImgSitios/ImgIconos/evaIcons.png',
+        img:'https://live.staticflickr.com/65535/53037228021_48d44b6218_k.jpg',
         nombre:'Eva Icons',
         url:'https://akveo.github.io/eva-icons/#/'
     }
     ,
     {
         id:8,
-        img:'src/Assets/ImgSitios/ImgIconos/gradientify.png',
+        img:'https://live.staticflickr.com/65535/53037411009_7e16c1526b_h.jpg',
         nombre:'Gradientify',
         url:'https://www.iconshock.com/svg-icons/'
     }
     ,
     {
         id:9,
-        img:'src/Assets/ImgSitios/ImgIconos/teenyicons.png',
+        img:'https://live.staticflickr.com/65535/53036649682_307780197f_k.jpg',
         nombre:'TeenyIcons',
         url:'https://teenyicons.com'
     }
     ,
     {
         id:10,
-        img:'src/Assets/ImgSitios/ImgIconos/Flowbite.png',
+        img:'https://live.staticflickr.com/65535/53037227996_a1ca351220_k.jpg',
         nombre:'Flowbite',
         url:'https://flowbite.com/icons/'
     }
     ,
     {
         id:11,
-        img:'src/Assets/ImgSitios/ImgIconos/experienceJapan.png',
+        img:'https://live.staticflickr.com/65535/53036649707_3d2058e138_k.jpg',
         nombre:'EXPERIENCE JAPAN',
         url:'https://experience-japan.info'
     }

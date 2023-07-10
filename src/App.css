@@ -44,6 +44,10 @@ body{
 }
 
 .aside__logo .aside__img{
+  /* padding: 20px; */
+  background-color: white;
+  border: 3px solid #84B026;
+  border-radius: 100%;
   width: 130px;
 }
 .aside__title{
