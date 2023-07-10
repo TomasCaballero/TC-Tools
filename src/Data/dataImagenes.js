@@ -1,0 +1,40 @@
+const dataImagenes = [
+    {
+        id:1,
+        img:'src/Assets/ImgSitios/ImgImagenes/freepic.png',
+        nombre:'Freepik',
+        url:'https://www.freepik.es'
+    },
+    {
+        id:2,
+        img:'src/Assets/ImgSitios/ImgImagenes/stockvault.png',
+        nombre:'Stockvault',
+        url:'https://www.stockvault.net'
+    },
+    {
+        id:3,
+        img:'src/Assets/ImgSitios/ImgImagenes/vecteezy.png',
+        nombre:'Vecteezy',
+        url:'https://es.vecteezy.com'
+    },
+    {
+        id:4,
+        img:'src/Assets/ImgSitios/ImgImagenes/Pexels.png',
+        nombre:'Pexels',
+        url:'https://www.pexels.com/es-es/'
+    },
+    {
+        id:5,
+        img:'src/Assets/ImgSitios/ImgImagenes/Burst.png',
+        nombre:'Burst',
+        url:'https://burst.shopify.com'
+    },
+    {
+        id:6,
+        img:'src/Assets/ImgSitios/ImgImagenes/ShotStash.png',
+        nombre:'ShotStash',
+        url:'https://shotstash.com'
+    }
+]
+
+export default dataImagenes;

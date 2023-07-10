@@ -1,0 +1,75 @@
+const dataIcons = [
+    {
+        id:1,
+        img:'src/Assets/ImgSitios/ImgIconos/boxicons.png',
+        nombre:'Boxicons',
+        url:'https://boxicons.com/?query=cop'
+    },
+    {
+        id:2,
+        img:'src/Assets/ImgSitios/ImgIconos/fontAwesome.png',
+        nombre:'Font Awesome',
+        url:'https://fontawesome.com'
+    },
+    {
+        id:3,
+        img:'src/Assets/ImgSitios/ImgIconos/flaticon.png',
+        nombre:'Flaticon',
+        url:'https://www.flaticon.es'
+    },
+    {
+        id:4,
+        img:'src/Assets/ImgSitios/ImgIconos/icon-icons.png',
+        nombre:'Icon-icons',
+        url:'https://icon-icons.com/es/'
+    },
+    {
+        id:5,
+        img:'src/Assets/ImgSitios/ImgIconos/lucide.png',
+        nombre:'Lucide',
+        url:'https://lucide.dev/icons/'
+    },
+    {
+        id:6,
+        img:'src/Assets/ImgSitios/ImgIconos/iconSVG.png',
+        nombre:'IconSVG',
+        url:'https://iconsvg.xyz'
+    }
+    ,
+    {
+        id:7,
+        img:'src/Assets/ImgSitios/ImgIconos/evaIcons.png',
+        nombre:'Eva Icons',
+        url:'https://akveo.github.io/eva-icons/#/'
+    }
+    ,
+    {
+        id:8,
+        img:'src/Assets/ImgSitios/ImgIconos/gradientify.png',
+        nombre:'Gradientify',
+        url:'https://www.iconshock.com/svg-icons/'
+    }
+    ,
+    {
+        id:9,
+        img:'src/Assets/ImgSitios/ImgIconos/teenyicons.png',
+        nombre:'TeenyIcons',
+        url:'https://teenyicons.com'
+    }
+    ,
+    {
+        id:10,
+        img:'src/Assets/ImgSitios/ImgIconos/Flowbite.png',
+        nombre:'Flowbite',
+        url:'https://flowbite.com/icons/'
+    }
+    ,
+    {
+        id:11,
+        img:'src/Assets/ImgSitios/ImgIconos/experienceJapan.png',
+        nombre:'EXPERIENCE JAPAN',
+        url:'https://experience-japan.info'
+    }
+]
+
+export default dataIcons;
